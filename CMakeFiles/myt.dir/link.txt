@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/myt.dir/main.cpp.o CMakeFiles/myt.dir/avl.cpp.o -o myt 

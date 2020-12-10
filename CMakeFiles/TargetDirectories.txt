@@ -1,0 +1,3 @@
+/home/egorcaa/Yandex.Disk/инфа/myt/CMakeFiles/rebuild_cache.dir
+/home/egorcaa/Yandex.Disk/инфа/myt/CMakeFiles/edit_cache.dir
+/home/egorcaa/Yandex.Disk/инфа/myt/CMakeFiles/myt.dir
